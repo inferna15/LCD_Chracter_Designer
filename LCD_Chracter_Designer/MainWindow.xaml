@@ -5,8 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_Arayuz_Deneme"
         mc:Ignorable="d"
-        Title="LCD Karakter" Height="596" Width="310" ResizeMode="NoResize"
-        Icon="{StaticResource AppIcon}">
+        Title="LCD Karakter" Height="596" Width="310" ResizeMode="NoResize">
     <Window.Resources>
         <Style TargetType="Button" x:Key="btnStyle">
             <Setter Property="Template">
