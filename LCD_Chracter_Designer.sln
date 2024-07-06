@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCD_Character_Designer", "LCD_Chracter_Designer\LCD_Character_Designer.csproj", "{1411A54F-06AE-45F1-915D-EE6FC708DE88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1411A54F-06AE-45F1-915D-EE6FC708DE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1411A54F-06AE-45F1-915D-EE6FC708DE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1411A54F-06AE-45F1-915D-EE6FC708DE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1411A54F-06AE-45F1-915D-EE6FC708DE88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7257FFB3-B612-4297-960B-8F2BF4B9BB78}
+	EndGlobalSection
+EndGlobal
